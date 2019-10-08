@@ -1,4 +1,0 @@
-fortify_license_path=/var/app/fortify.license
-MigrateSCA=0
-MigrateFrom=""
-installdir=/var/app/Fortify
