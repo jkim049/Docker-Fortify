@@ -1,5 +1,7 @@
 #### centos-install-fortify
 
+**All external files, licenses, executables, etc have been removed**
+
 # Files
 
 1. Dockerfile
@@ -26,5 +28,5 @@ To run use the following command: `./create_fortify_image.sh`
 Contains files necessary for the installation of Fortify.
 
 
-**All external files, licenses, executables, etc have been removed**
+
 
